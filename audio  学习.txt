@@ -1,0 +1,7 @@
+关键词   stream  的名字   还有 当stream 作为 dapm 中的一个 wight 那么 就有一个宏
+https://blog.csdn.net/droidphone/article/details/14548631
+https://blog.csdn.net/azloong/article/details/9047715
+
+
+关键词   soc_pcm_prepare
+https://blog.csdn.net/azloong/article/details/9047715
